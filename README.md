@@ -1,2 +1,3 @@
 # adventofcode
-My solutions to http://adventofcode.com/
+Solutions to http://adventofcode.com/
+Authored by each person's own directory.
