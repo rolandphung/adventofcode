@@ -1,2 +1,2 @@
 # adventofcode
-My own solutions to adventofcode.com
+My solutions to adventofcode.com
